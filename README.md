@@ -1,0 +1,2 @@
+# QtJS
+Qt和JS进行交互框架。依赖于Qt中的WebKit实现Qt中和嵌入到QtWeb中的html页面或者js脚本的交互。支持双向数据交互：js到Qt模仿ajax实现方式，采用Get/Post方式进行数据传送；Qt到js端直接进行数据推送，js端采用注册消息回调实现。分为Qt4版本和Qt5版本
