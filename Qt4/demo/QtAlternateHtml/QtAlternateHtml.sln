@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtAlternateHtml", "QtAlternateHtml\QtAlternateHtml.vcxproj", "{C6CDB13A-8320-47BB-B742-CE33C162B45C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtWeb", "..\QtWeb\QtWeb.vcxproj", "{6F4B4ABD-A7BA-4B7D-8018-D287A10AA257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6CDB13A-8320-47BB-B742-CE33C162B45C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C6CDB13A-8320-47BB-B742-CE33C162B45C}.Debug|Win32.Build.0 = Debug|Win32
+		{C6CDB13A-8320-47BB-B742-CE33C162B45C}.Release|Win32.ActiveCfg = Release|Win32
+		{C6CDB13A-8320-47BB-B742-CE33C162B45C}.Release|Win32.Build.0 = Release|Win32
+		{6F4B4ABD-A7BA-4B7D-8018-D287A10AA257}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F4B4ABD-A7BA-4B7D-8018-D287A10AA257}.Debug|Win32.Build.0 = Debug|Win32
+		{6F4B4ABD-A7BA-4B7D-8018-D287A10AA257}.Release|Win32.ActiveCfg = Release|Win32
+		{6F4B4ABD-A7BA-4B7D-8018-D287A10AA257}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
